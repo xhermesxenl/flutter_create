@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'xxx',
-    appId: 'xxx',
-    messagingSenderId: 'xxx',
+    apiKey: 'AIzaSyAqup1u--WDxugU6iiKSusnPjAwNYDEhGo',
+    appId: '1:556816178700:web:60c263cd4f91302df9d829',
+    messagingSenderId: '556816178700',
     projectId: 'n8nflutter',
     authDomain: 'n8nflutter.firebaseapp.com',
     storageBucket: 'n8nflutter.firebasestorage.app',
-    measurementId: xxx',
+    measurementId: 'G-FQL0N7JL2S',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'xxx',
-    appId: 'xxx',
-    messagingSenderId: 'xxx',
+    apiKey: 'AIzaSyDudHi9SyzNA1kpGiln5spsLfbPtqzBNts',
+    appId: '1:556816178700:android:59210bb495bade9ff9d829',
+    messagingSenderId: '556816178700',
     projectId: 'n8nflutter',
     storageBucket: 'n8nflutter.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'xxx',
-    appId: 'xxx',
-    messagingSenderId: 'xxx',
+    apiKey: 'AIzaSyBAAcccR6U7r4GTSjy23ZL9i74py5xCP3A',
+    appId: '1:556816178700:ios:95ccb62fd98f4aaff9d829',
+    messagingSenderId: '556816178700',
     projectId: 'n8nflutter',
     storageBucket: 'n8nflutter.firebasestorage.app',
     iosBundleId: 'com.example.flutterCreate',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'xxx',
-    appId: 'xxx',
-    messagingSenderId: 'xxx',
+    apiKey: 'AIzaSyBAAcccR6U7r4GTSjy23ZL9i74py5xCP3A',
+    appId: '1:556816178700:ios:95ccb62fd98f4aaff9d829',
+    messagingSenderId: '556816178700',
     projectId: 'n8nflutter',
     storageBucket: 'n8nflutter.firebasestorage.app',
     iosBundleId: 'com.example.flutterCreate',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'xxx',
-    appId: 'xxx',
-    messagingSenderId: 'xxx',
+    apiKey: 'AIzaSyAqup1u--WDxugU6iiKSusnPjAwNYDEhGo',
+    appId: '1:556816178700:web:b298a33f0cf30cadf9d829',
+    messagingSenderId: '556816178700',
     projectId: 'n8nflutter',
     authDomain: 'n8nflutter.firebaseapp.com',
     storageBucket: 'n8nflutter.firebasestorage.app',
-    measurementId: 'xxx',
+    measurementId: 'G-PD2V9LJJRC',
   );
 }
